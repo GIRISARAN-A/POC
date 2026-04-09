@@ -31,7 +31,6 @@ The main goal of this project is to provide hands-on exposure to:
 * Automated security auditing
 * Log analysis and intrusion prevention
 
----
 
 ## Prerequisites
 
