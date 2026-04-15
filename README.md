@@ -384,8 +384,6 @@ This project is strictly for:
 Do not run these techniques on systems without explicit permission.
 
 
-
-
 <p align="center">
   <sub>Cybersecurity | Linux | Security Automation | Privilege Escalation Research</sub>
 </p>
